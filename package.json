@@ -1,0 +1,24 @@
+{
+  "name": "tech-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanandadras/tech-talk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanandadras/tech-talk/issues"
+  },
+  "homepage": "https://github.com/hanandadras/tech-talk#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.3"
+  }
+}
